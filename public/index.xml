@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sean&#39;s Blog</title>
+    <link>https://seansunn.github.io/</link>
+    <description>Recent content on Sean&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Apr 2024 18:02:55 +0800</lastBuildDate>
+    <atom:link href="https://seansunn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to My First Data Science Notes</title>
+      <link>https://seansunn.github.io/posts/2024_04_06_00_first-post/</link>
+      <pubDate>Sat, 06 Apr 2024 18:02:55 +0800</pubDate>
+      <guid>https://seansunn.github.io/posts/2024_04_06_00_first-post/</guid>
+      <description>Hi, this is Sean. I became an Data Scientist in February, 2024. I am interested in generative AI, large language models, and natural language processing. I am documenting my learning notes in this blog. Cheers!</description>
+    </item>
+  </channel>
+</rss>
